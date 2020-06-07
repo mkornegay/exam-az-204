@@ -1,0 +1,8 @@
+﻿{
+  "batchAccountName": "az204batchmkornegay",
+  "batchAccountKey": "WQcAb4633wkUwSAov21+/ypa5dLmgj3a1AqgI62WK21Qe7ntDkJ9KB/MRgo0Xw5jPO47QQQclCDZ0Wwj7fwIAA==",
+  "batchServiceUrl": "https://az204batchmkornegay.eastus.batch.azure.com",
+  "storageAccountName": "az204storagemkornegay",
+  "storageAccountKey": "rcBtoB3QH6QSE0MLJNVTkMMBL9JkzBVwYjRPKOP1Q6Fc060E2OMy0byKNAmgiedszAuJE0MXcbnFjEusxLftaw==",
+  "storageServiceUrl": "https://az204storagemkornegay.blob.core.windows.net/"
+}
