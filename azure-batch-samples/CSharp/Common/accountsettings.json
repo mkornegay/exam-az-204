@@ -1,8 +1,8 @@
 ﻿{
-  "batchAccountName": "az204batchmkornegay",
-  "batchAccountKey": "WQcAb4633wkUwSAov21+/ypa5dLmgj3a1AqgI62WK21Qe7ntDkJ9KB/MRgo0Xw5jPO47QQQclCDZ0Wwj7fwIAA==",
-  "batchServiceUrl": "https://az204batchmkornegay.eastus.batch.azure.com",
-  "storageAccountName": "az204storagemkornegay",
-  "storageAccountKey": "rcBtoB3QH6QSE0MLJNVTkMMBL9JkzBVwYjRPKOP1Q6Fc060E2OMy0byKNAmgiedszAuJE0MXcbnFjEusxLftaw==",
-  "storageServiceUrl": "https://az204storagemkornegay.blob.core.windows.net/"
+  "batchAccountName": "mjkaz204batchaccount",
+  "batchAccountKey": "HENTZm6tDZijD7/PLyDfCipcKgpY7m4+jUZjNy0vekx4VnxDq0zCkUOqTfonLHbnOF3ua1hmqgZ1LTs5v5dRZQ==",
+  "batchServiceUrl": "https://mjkaz204batchaccount.eastus.batch.azure.com",
+  "storageAccountName": "mjkaz204storageaccount",
+  "storageAccountKey": "f9x8wg78NgOfianYHcX/8rbKawDNbcySQgwf9OtTRlmMsdN28k1qKdywMKcSQmQ/pqwneSM2BSHFqCKFqerOtQ==",
+  "storageServiceUrl": "https://mjkaz204storageaccount.blob.core.windows.net/"
 }
